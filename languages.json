@@ -1,99 +1,99 @@
 {
-	"Languages": [
-	  {	
-        "Name": "English (Pirate)",
-        "Id": "pirate",
-        "FlagUrl": "https://cdn.discordapp.com/attachments/844914604080889867/922745668148277299/arr.png"		
-	  },
-      {
-        "Name": "English (UK)",
-        "Id": "en-GB",
-        "FlagUrl": "https://findicons.com/files/icons/282/flags/48/united_kingdom_great_britain.png"
-      },
-      {
-        "Name": "English (Welsh)",
-        "Id": "cy-GB",
-        "FlagUrl": "https://findicons.com/files/icons/282/flags/48/wales.png"
-      },
-      {
-        "Name": "Romanian",
-        "Id": "ro",
-        "FlagUrl": "https://findicons.com/files/icons/282/flags/48/romania.png"
-      },
-      {
-        "Name": "German",
-        "Id": "de",
-        "FlagUrl": "https://findicons.com/files/icons/282/flags/48/germany.png"
-      },
-      {
-        "Name": "Spanish",
-        "Id": "es",
-        "FlagUrl": "https://findicons.com/files/icons/282/flags/48/spain.png"
-      },
-      {
-        "Name": "French",
-        "Id": "fr",
-        "FlagUrl": "https://findicons.com/files/icons/282/flags/48/france.png"
-      },
-      {
-        "Name": "Portuguese (BR)",
-        "Id": "pt-BR",
-        "FlagUrl": "https://findicons.com/files/icons/282/flags/48/brazil.png"
-      },
-      {
-        "Name": "Hungarian",
-        "Id": "hu",
-        "FlagUrl": "https://findicons.com/files/icons/282/flags/48/hungary.png"
-      },
-      {
-        "Name": "Japanese",
-        "Id": "ja",
-        "FlagUrl": "https://findicons.com/files/icons/282/flags/48/japan.png"
-      },
-      {
-        "Name": "Chinese (CN)",
-        "Id": "zh-CN",
-        "FlagUrl": "https://findicons.com/files/icons/282/flags/48/china.png"
-      },
-      {
-        "Name": "Dutch",
-        "Id": "nl",
-        "FlagUrl": "https://findicons.com/files/icons/282/flags/48/netherlands.png"
-      },
-      {
-        "Name": "Polish",
-        "Id": "pl",
-        "FlagUrl": "https://findicons.com/files/icons/282/flags/48/poland.png"
-      },
-      {
-        "Name": "Swedish",
-        "Id": "sv",
-        "FlagUrl": "https://findicons.com/files/icons/282/flags/48/sweden.png"
-      },
-      {
-        "Name": "Greek",
-        "Id": "el",
-        "FlagUrl": "https://findicons.com/files/icons/282/flags/48/greece.png"
-      },
-      {
-        "Name": "Korean",
-        "Id": "ko",
-        "FlagUrl": "https://findicons.com/files/icons/282/flags/48/south_korea.png"
-      },
-      {
-        "Name": "Indian",
-        "Id": "hi",
-        "FlagUrl": "https://findicons.com/files/icons/282/flags/48/india.png"
-      },
-      {
-        "Name": "Arabic",
-        "Id": "ar",
-        "FlagUrl": "https://findicons.com/files/icons/282/flags/48/saudi_arabia.png"
-      },
-      {
-        "Name": "Catalan",
-        "Id": "ca",
-        "FlagUrl": "https://cdn.discordapp.com/attachments/844914604080889867/854493348479238184/Catalonia_Flag.png"
-      }
-    ]
+  "Languages": [
+    {
+      "Name": "English (Pirate)",
+      "Id": "pirate",
+      "FlagUrl": "https://cdn.discordapp.com/attachments/844914604080889867/922745668148277299/arr.png"
+    },
+    {
+      "Name": "English (UK)",
+      "Id": "en-GB",
+      "FlagUrl": "https://findicons.com/files/icons/282/flags/48/united_kingdom_great_britain.png"
+    },
+    {
+      "Name": "English (Welsh)",
+      "Id": "cy-GB",
+      "FlagUrl": "https://findicons.com/files/icons/282/flags/48/wales.png"
+    },
+    {
+      "Name": "Romanian",
+      "Id": "ro",
+      "FlagUrl": "https://findicons.com/files/icons/282/flags/48/romania.png"
+    },
+    {
+      "Name": "German",
+      "Id": "de",
+      "FlagUrl": "https://findicons.com/files/icons/282/flags/48/germany.png"
+    },
+    {
+      "Name": "Spanish",
+      "Id": "es",
+      "FlagUrl": "https://findicons.com/files/icons/282/flags/48/spain.png"
+    },
+    {
+      "Name": "French",
+      "Id": "fr",
+      "FlagUrl": "https://findicons.com/files/icons/282/flags/48/france.png"
+    },
+    {
+      "Name": "Portuguese (BR)",
+      "Id": "pt-BR",
+      "FlagUrl": "https://findicons.com/files/icons/282/flags/48/brazil.png"
+    },
+    {
+      "Name": "Hungarian",
+      "Id": "hu",
+      "FlagUrl": "https://findicons.com/files/icons/282/flags/48/hungary.png"
+    },
+    {
+      "Name": "Japanese",
+      "Id": "ja",
+      "FlagUrl": "https://findicons.com/files/icons/282/flags/48/japan.png"
+    },
+    {
+      "Name": "Chinese (CN)",
+      "Id": "zh-CN",
+      "FlagUrl": "https://findicons.com/files/icons/282/flags/48/china.png"
+    },
+    {
+      "Name": "Dutch",
+      "Id": "nl",
+      "FlagUrl": "https://findicons.com/files/icons/282/flags/48/netherlands.png"
+    },
+    {
+      "Name": "Polish",
+      "Id": "pl",
+      "FlagUrl": "https://findicons.com/files/icons/282/flags/48/poland.png"
+    },
+    {
+      "Name": "Swedish",
+      "Id": "sv",
+      "FlagUrl": "https://findicons.com/files/icons/282/flags/48/sweden.png"
+    },
+    {
+      "Name": "Greek",
+      "Id": "el",
+      "FlagUrl": "https://findicons.com/files/icons/282/flags/48/greece.png"
+    },
+    {
+      "Name": "Korean",
+      "Id": "ko",
+      "FlagUrl": "https://findicons.com/files/icons/282/flags/48/south_korea.png"
+    },
+    {
+      "Name": "Indian",
+      "Id": "hi",
+      "FlagUrl": "https://findicons.com/files/icons/282/flags/48/india.png"
+    },
+    {
+      "Name": "Arabic",
+      "Id": "ar",
+      "FlagUrl": "https://findicons.com/files/icons/282/flags/48/saudi_arabia.png"
+    },
+    {
+      "Name": "Catalan",
+      "Id": "ca",
+      "FlagUrl": "https://cdn.discordapp.com/attachments/844914604080889867/854493348479238184/Catalonia_Flag.png"
+    }
+  ]
 }
